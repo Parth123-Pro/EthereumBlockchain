@@ -7,3 +7,7 @@ https://www.transfernow.net/dl/20220821sNjPOSzf
 
 #### 2nd Step
 [GettingStartedWithProject.pdf](https://github.com/Parth123-Pro/EthereumBlockchain/files/9389696/GettingStartedWithProject.pdf)
+
+#### (Optional)
+[TroubleshootingTips.pdf](https://github.com/Parth123-Pro/EthereumBlockchain/files/9389699/TroubleshootingTips.pdf)
+
